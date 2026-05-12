@@ -1,0 +1,10 @@
+{
+  "room_id": "room_101",
+  "device_id": "env_node_01",
+  "timestamp": "2015-02-06 06:32:00",
+  "Temperature": 21.93,
+  "Humidity": 28.786,
+  "Light": 469.53,
+  "CO2": 834.85,
+  "HumidityRatio": 0.001824
+}
